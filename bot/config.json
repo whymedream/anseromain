@@ -1,0 +1,36 @@
+{
+    "BOT": {
+        "version": "1.0.0",
+        "bot_name": "Ansero",
+        "owner_ids": [594200610631581697, 1064250083899625482],
+        "owner_names": ["lisenok1", "whymedream"],
+        "bot_icon": ""
+    },
+    "API": {
+        "token": "MTA2NjA3OTI1NjIzNDQzODY4Ng.GCUYED.fKrViipZ4c_gJzQwpYKyvOK7H9FNGj_wP179Zk"
+    },
+    "DB": {
+        "DB_SETTINGS": {
+            "url": "mongodb://localhost:27017",
+            "db_name": "anserotest"
+        }
+    },
+    "EMOJI": {
+        "creditcard1": "<:creditcard1:1107014298124943382>",
+        "creditcard": "<:creditcard:1107012148623851520>",
+        "money": "<a:money:1106708060564623520>",
+        "bonus": "<:bonus:1107694532402892932>",
+        "salary": "<:salary:1107699307118858331>",
+        "win": "<:win:1109178796730494986>",
+        "ratio": "<:ratio:1109178775024975953>",
+        "cointoss": "<:cointoss:1109191881457410099>",
+        "money_minus": "<:money_minus:1119716803464151152>",
+        "shoppingcart": "<:shoppingcart:1109202399777796126>",
+        "success": "<:success:1111400981654163517>",
+        "crash": "<:crash:1119716214520938537>",
+        "crash_minus": "<:crash_minus:1119716617413214228>",
+        "money_crash": "<:money_crash:1119716384188928120>",
+        "greencheck": ":white_check_mark:",
+        "default_currency": "<a:money:1106708060564623520>"
+    }
+}
